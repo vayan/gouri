@@ -2,7 +2,7 @@
 
 ## Package
 
-`go get bitbucket.org/vayan/gouri`
+`go get github.com/vayan/gouri`
 
 ## Usage
 
